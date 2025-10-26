@@ -1,0 +1,3 @@
+This text created from/to file_handling.py.
+Appending new line to the file.
+ 3rd Line # Append to the file
