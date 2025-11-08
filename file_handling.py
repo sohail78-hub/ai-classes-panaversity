@@ -14,6 +14,11 @@ file.close()  # Close the file
 # print(content2)  # Print the content
 # file3.close()  # Close the file
 
+#-------------------------------
+# app name:
+# tiktik (time management app)
+# ---------------
+
 file3 = open("example.txt", "a")  # Open the file in append mode
 file3.write("\nAppending new line to the file.")
 file3.write("\n 3rd Line # Append to the file")
@@ -27,4 +32,4 @@ file3.close()  # Close the file
 # Auto close using with statement
 with open("example.txt", "r") as file4:  # Open the file in read mode
     content3 = file4.read()  # Read the content of the file
-    print(content3)  # Print the contegnt
+    print(content3)  # Print the content
