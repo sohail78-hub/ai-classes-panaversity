@@ -1,4 +1,9 @@
 
+# Step1: Create a prompt for "mood checker game" in which include all types of mood & this game will be created in python.
+# (it will generate mood checker prompt for python code)
+# Step2: Use this prompt and create mood checker game by asking mood from user in python
+# (Results are below)
+
 import sys
 
 def get_mood_response(mood):
