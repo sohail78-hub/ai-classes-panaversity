@@ -32,4 +32,4 @@ file3.close()  # Close the file
 # Auto close using with statement
 with open("example.txt", "r") as file4:  # Open the file in read mode
     content3 = file4.read()  # Read the content of the file
-    print(content3)  # Print the content
+    print(content3)  # Print the contents
